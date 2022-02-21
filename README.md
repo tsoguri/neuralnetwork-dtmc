@@ -1,4 +1,4 @@
-In this neural network example, we simulated a full path of a DTMC for an appropriate inventory model, and use the Monte Carlo method to estimate its corresponding discounted value function. We compared the resulting values with a neural network, and on the mean squared errors. 
+In this neural network example, we simulated a full path of a DTMC for an appropriate inventory model, and used the Monte Carlo method to estimate its corresponding discounted value function. We compared the resulting values with a neural network, and on the mean squared errors. 
 
 ## Problem Statement
 
